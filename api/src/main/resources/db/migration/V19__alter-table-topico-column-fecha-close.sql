@@ -1,0 +1,1 @@
+ALTER TABLE topicos RENAME COLUMN fecha_cierre TO fecha_close;

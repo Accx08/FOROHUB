@@ -1,0 +1,1 @@
+ALTER TABLE topicos ADD fecha_cierre tinyint;
